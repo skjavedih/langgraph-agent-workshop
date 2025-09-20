@@ -1,5 +1,5 @@
 # Lang graph workshop
-This repository contains all the codes that would be taught in devday hyderabad agentic ai workshop
+This repository contains all the codes that would be taught in MFIRD Langgraph workshop
 
 
 ## How to install
