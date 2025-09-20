@@ -1,0 +1,50 @@
+{
+  "messages": [
+    {
+      "type": "human",
+      "data": {
+        "content": "I'm interested in your pricing plans",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "human",
+        "name": null,
+        "id": "93a19c8b-184d-49fc-b84f-fa74249122de",
+        "example": false
+      }
+    },
+    {
+      "type": "ai",
+      "data": {
+        "content": "Sales Inquiry",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "ai",
+        "name": null,
+        "id": "a340fc41-9d7b-441b-9054-1ac0ef8417ae",
+        "example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "usage_metadata": null
+      }
+    },
+    {
+      "type": "ai",
+      "data": {
+        "content": "Thank you for your interest in our pricing plans! We offer a variety of options to suit different needs and budgets. Could you please let me know what specific features or services you're interested in? That way, I can provide you with the most relevant information.",
+        "additional_kwargs": {},
+        "response_metadata": {},
+        "type": "ai",
+        "name": null,
+        "id": "56638a52-29e3-4cf0-b77b-a21074dce462",
+        "example": false,
+        "tool_calls": [],
+        "invalid_tool_calls": [],
+        "usage_metadata": null
+      }
+    }
+  ],
+  "question": "I'm interested in your pricing plans",
+  "intent_classification": "Sales Inquiry",
+  "sales_resolution": "Thank you for your interest in our pricing plans! We offer a variety of options to suit different needs and budgets. Could you please let me know what specific features or services you're interested in? That way, I can provide you with the most relevant information.",
+  "customer_support_resolution": null
+}
